@@ -14,7 +14,7 @@ The cornerstone of this project is a game of 'Breakout', controlled through wris
     - **Visuals Needed**: Sensor diagrams and data visualization charts.
   - **Finger Movement Detection**: Integrating EMG sensors with touch sensors to deduce specific finger actions. [Download Dataset](https://github.com/FKGSOFTWARE/EMGControl)
     - **Visuals Needed**: Hand sensor placement diagrams and data visualization charts.
-  - **Hand and Body Tracking**: Initial hand and digit tracking, later focusing on palm angles in relation to the forearm using MediaPipe. [Download Dataset]([#dummy-url3](https://github.com/FKGSOFTWARE/EMGControl))
+  - **Hand and Body Tracking**: Initial hand and digit tracking, later focusing on palm angles in relation to the forearm using MediaPipe. [Download Dataset](https://github.com/FKGSOFTWARE/EMGControl)
     - **Visuals Needed**: Video demonstration and data visualization charts highlighting angles.
 
 
