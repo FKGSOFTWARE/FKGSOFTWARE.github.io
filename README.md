@@ -35,9 +35,9 @@ The cornerstone of this project is a game of 'Breakout', controlled through wris
     - [Download Full Wrist Angle Dataset](https://github.com/FKGSOFTWARE/EMGControl/raw/master/working_scirpts_for_dataset/wrist_angle_dataset/_output/updated_body_and_hand_landmarks_data_TimeVideo_20230908_163442.csv?download=)
     - **Visuals Needed**: Video demonstration and data visualization charts highlighting angles.
 
-  - **Basic EMG for wrist Flexion and Extension**:
-    - <iframe width="560" height="315" src="https://www.youtube.com/embed/fjLq5sRPJhM?si=kGab2tkeCibMa3Me" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    - [Basic EMG Dataset](https://github.com/FKGSOFTWARE/EMGControl/raw/master/output/gesture%20recordings/2%20emg%20mediapipe%2010min.csv?download=)
+- **Basic EMG for wrist Flexion and Extension**:
+  - <iframe width="560" height="315" src="https://www.youtube.com/embed/fjLq5sRPJhM?si=kGab2tkeCibMa3Me" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  - [Basic EMG Dataset](https://github.com/FKGSOFTWARE/EMGControl/raw/master/output/gesture%20recordings/2%20emg%20mediapipe%2010min.csv?download=)
 
 ## Challenges and Learnings
 - **Challenges**: The task of integrating multiple components and creating bespoke tools tailored to our requirements was a considerable challenge. Further, the project had to be executed within a constrained budget, pushing us to innovate and optimize.
