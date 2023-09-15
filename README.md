@@ -1,7 +1,7 @@
 # EMG-Controlled Game & Data Analysis
 
 ## Project Introduction
-This ambitious project, a joint venture between the **University of Glasgow** and **Imperial College London**, under the guidance of **Jonathan Grizou**, aimed to exploit the potential of off-the-shelf components to use EMG data for control and deep data analysis. 
+This ambitious project, a joint venture between the **University of Glasgow**, under the guidance of **[Jonathan Grizou](https://jgrizou.com/)** and **Imperial College London** with **[Xiaoqi Wang](https://www.linkedin.com/in/xiaoqi-wang/)** under **[Cristohpher Salvi](https://www.imperial.ac.uk/people/c.salvi)**, aimed to exploit the potential of off-the-shelf components to use EMG data for control and deep data analysis. 
 
 The cornerstone of this project is a game of 'Breakout', controlled through wrist movements using two EMG sensors interfaced with an Arduino Nano. In parallel, we developed datasets capturing the nuances of EMG signals in relation to strength exertion, specific finger movements, and body tracking.
 
@@ -19,12 +19,19 @@ The cornerstone of this project is a game of 'Breakout', controlled through wris
     - [Download 5 Finger Dataset](https://github.com/FKGSOFTWARE/EMGControl/raw/master/output/official%20recordings/official%20recordings%2010min/5%20touch%202%20emg%2010min.csv?download=)
     - **Visuals Needed**: Hand sensor placement diagrams and data visualization charts.
   - **Hand and Body Tracking**: Initial hand and digit tracking, later focusing on palm angles in relation to the forearm using MediaPipe.
-    - [Download Raw Wrist Angle Dataset](https://github.com/FKGSOFTWARE/EMGControl)
+    
+    - [Download Raw Wrist Angle Dataset](https://github.com/FKGSOFTWARE/EMGControl/raw/master/working_scirpts_for_dataset/wrist_angle_dataset/_output/TA_body_and_hand_landmarks_data_TimeVideo_20230908_163442.csv?download=)
+   
+      
       ![Iterpolated Plot](https://github.com/FKGSOFTWARE/EMGControl/blob/8ac7afeaabe2f3f871786fa9da782ee1d069a8b4/output/official%20recordings/official%20recordings%2010min/official%20EMG%20mediapipe%2010%20minute%20-%20interpolation.png)
     - [Download Interpolated Wrist Angle Dataset](https://github.com/FKGSOFTWARE/EMGControl/raw/master/output/official%20recordings/official%20recordings%2010min/official%20EMG%20mediapipe%2010%20minute%20-%20interpolation.csv?download=)
+   
+      
       ![No NaN Plot](https://github.com/FKGSOFTWARE/EMGControl/blob/8ac7afeaabe2f3f871786fa9da782ee1d069a8b4/output/official%20recordings/official%20recordings%2010min/official%20EMG%20mediapipe%2010%20minute%20-%20no%20NaN.png)
     - [Download No NaN Wrist Angle Dataset](https://github.com/FKGSOFTWARE/EMGControl/raw/master/output/official%20recordings/official%20recordings%2010min/official%20EMG%20mediapipe%2010%20minute%20-%20no%20NaN.csv?download=)
-    - [Download Full Wrist Angle Dataset](https://github.com/FKGSOFTWARE/EMGControl)
+   
+      
+    - [Download Full Wrist Angle Dataset](https://github.com/FKGSOFTWARE/EMGControl/raw/master/working_scirpts_for_dataset/wrist_angle_dataset/_output/updated_body_and_hand_landmarks_data_TimeVideo_20230908_163442.csv?download=)
     - **Visuals Needed**: Video demonstration and data visualization charts highlighting angles.
 
 
