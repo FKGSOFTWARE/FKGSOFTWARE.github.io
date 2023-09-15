@@ -10,6 +10,13 @@ The cornerstone of this project is a game of 'Breakout', controlled through wris
 **[Link to project GitHub repo](https://github.com/FKGSOFTWARE/EMGControl)**
 
 ## Features and Deliverables
+
+  Sensor placement:
+    ![Sensor placement diagram](https://raw.githubusercontent.com/FKGSOFTWARE/EMGControl/master/Images/arm%20anatomical%20emg%20sensors%20marked.jpeg)
+    
+  Basic system diagram: 
+    ![Basic system diagram](https://raw.githubusercontent.com/FKGSOFTWARE/EMGControl/master/Images/hardware%20diagram.jpeg)
+    
 - **Breakout Game Control via EMG**: Experience a unique gaming interface controlled through wrist flexion and extension.
   - **Visuals Needed**: Video demonstration showcasing the EMG-based game controls.
 - **Datasets**:
