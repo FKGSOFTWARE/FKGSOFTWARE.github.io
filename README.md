@@ -5,6 +5,7 @@ This ambitious project, a joint venture between the **University of Glasgow**, u
 
 The cornerstone of this project is a game of 'Breakout', controlled through wrist movements using two EMG sensors interfaced with an Arduino Nano. In parallel, we developed datasets capturing the nuances of EMG signals in relation to strength exertion, specific finger movements, and body tracking.
 
+*[Link to project GitHub repo](https://github.com/FKGSOFTWARE/EMGControl)*
 
 ## Features and Deliverables
 - **Breakout Game Control via EMG**: Experience a unique gaming interface controlled through wrist flexion and extension.
@@ -49,7 +50,7 @@ Our vision for the project extends beyond its current state. We aim to refine th
 
 
 ## Included Files and Scripts
-
+Below is a brief description of some of the main files in the github attached to this project that any interested parties are free to use. Not all files have been mentioned but proper documentation will be coming.
 ### Arduino Scripts:
 
 #### 1. 2_emg_sensor_default.cpp
