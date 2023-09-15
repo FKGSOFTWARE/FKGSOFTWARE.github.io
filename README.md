@@ -1,5 +1,7 @@
 # EMG-Controlled Game & Data Analysis
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R4kmWpyMrCM?si=QD3PrQiske5TVufq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Project Introduction
 This ambitious project, a joint venture between the **University of Glasgow**, under the guidance of **[Jonathan Grizou](https://jgrizou.com/)** and **Imperial College London** with **[Xiaoqi Wang](https://www.linkedin.com/in/xiaoqi-wang/)** under **[Cristohpher Salvi](https://www.imperial.ac.uk/people/c.salvi)**, aimed to exploit the potential of off-the-shelf components to use EMG data for control and deep data analysis. 
 
