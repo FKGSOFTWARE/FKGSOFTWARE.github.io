@@ -10,11 +10,19 @@ The cornerstone of this project is a game of 'Breakout', controlled through wris
 - **Breakout Game Control via EMG**: Experience a unique gaming interface controlled through wrist flexion and extension.
   - **Visuals Needed**: Video demonstration showcasing the EMG-based game controls.
 - **Datasets**:
-  - **Strength vs Signal Strength**: Combining EMG sensors with a load cell to analyze the relationship. [Download Dataset](https://github.com/FKGSOFTWARE/EMGControl)
+  - **Strength vs Signal Strength**: Combining EMG sensors with a load cell to analyze the relationship.
+    - [Download Dataset]([https://github.com/FKGSOFTWARE/EMGControl](https://github.com/FKGSOFTWARE/EMGControl/raw/master/output/official%20recordings/official%20recordings%2010min/1%20load%202%20emg%2010min.csv?download=))
     - **Visuals Needed**: Sensor diagrams and data visualization charts.
-  - **Finger Movement Detection**: Integrating EMG sensors with touch sensors to deduce specific finger actions. [Download Dataset](https://github.com/FKGSOFTWARE/EMGControl)
+  - **Finger Movement Detection**: Integrating EMG sensors with touch sensors to deduce specific finger actions.
+    - [Download 2 Finger Dataset](https://github.com/FKGSOFTWARE/EMGControl/raw/master/output/official%20recordings/official%20recordings%2010min/2%20touch%202%20emg%2010min.csv?download=)
+    - [Download 3 Finger Dataset](https://github.com/FKGSOFTWARE/EMGControl/raw/master/output/official%20recordings/official%20recordings%2010min/3%20touch%202%20emg%2010min.csv?download=)
+    - [Download 5 Finger Dataset](https://github.com/FKGSOFTWARE/EMGControl/raw/master/output/official%20recordings/official%20recordings%2010min/5%20touch%202%20emg%2010min.csv?download=)
     - **Visuals Needed**: Hand sensor placement diagrams and data visualization charts.
-  - **Hand and Body Tracking**: Initial hand and digit tracking, later focusing on palm angles in relation to the forearm using MediaPipe. [Download Dataset](https://github.com/FKGSOFTWARE/EMGControl)
+  - **Hand and Body Tracking**: Initial hand and digit tracking, later focusing on palm angles in relation to the forearm using MediaPipe.
+    - [Download Raw Wrist Angle Dataset](https://github.com/FKGSOFTWARE/EMGControl)
+    - [Download Interpolated Wrist Angle Dataset](https://github.com/FKGSOFTWARE/EMGControl)
+    - [Download No NaN Wrist Angle Dataset](https://github.com/FKGSOFTWARE/EMGControl)
+    - [Download Full Wrist Angle Dataset](https://github.com/FKGSOFTWARE/EMGControl)
     - **Visuals Needed**: Video demonstration and data visualization charts highlighting angles.
 
 
