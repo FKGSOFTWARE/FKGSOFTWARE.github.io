@@ -24,11 +24,11 @@ The cornerstone of this project is a game of 'Breakout', controlled through wris
     - [Download Raw Wrist Angle Dataset](https://github.com/FKGSOFTWARE/EMGControl/raw/master/working_scirpts_for_dataset/wrist_angle_dataset/_output/TA_body_and_hand_landmarks_data_TimeVideo_20230908_163442.csv?download=)
    
       
-      ![Iterpolated Plot](https://github.com/FKGSOFTWARE/EMGControl/blob/8ac7afeaabe2f3f871786fa9da782ee1d069a8b4/output/official%20recordings/official%20recordings%2010min/official%20EMG%20mediapipe%2010%20minute%20-%20interpolation.png)
+      ![Iterpolated Plot](https://raw.githubusercontent.com/FKGSOFTWARE/EMGControl/8ac7afeaabe2f3f871786fa9da782ee1d069a8b4/output/official%20recordings/official%20recordings%2010min/official%20EMG%20mediapipe%2010%20minute%20-%20interpolation.png)
     - [Download Interpolated Wrist Angle Dataset](https://github.com/FKGSOFTWARE/EMGControl/raw/master/output/official%20recordings/official%20recordings%2010min/official%20EMG%20mediapipe%2010%20minute%20-%20interpolation.csv?download=)
    
       
-      ![No NaN Plot](https://github.com/FKGSOFTWARE/EMGControl/blob/8ac7afeaabe2f3f871786fa9da782ee1d069a8b4/output/official%20recordings/official%20recordings%2010min/official%20EMG%20mediapipe%2010%20minute%20-%20no%20NaN.png)
+      ![No NaN Plot](https://raw.githubusercontent.com/FKGSOFTWARE/EMGControl/8ac7afeaabe2f3f871786fa9da782ee1d069a8b4/output/official%20recordings/official%20recordings%2010min/official%20EMG%20mediapipe%2010%20minute%20-%20no%20NaN.png)
     - [Download No NaN Wrist Angle Dataset](https://github.com/FKGSOFTWARE/EMGControl/raw/master/output/official%20recordings/official%20recordings%2010min/official%20EMG%20mediapipe%2010%20minute%20-%20no%20NaN.csv?download=)
    
       
